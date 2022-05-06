@@ -1,0 +1,6 @@
+1;Magical Clothing, obvious or otherwise;
+2;Old adventurer's garb;
+3;Plain tunic and trousers;
+4;Rich, silk robes;
+5;Lots of pouches and pockets, each perpetually stuffed;
+6;Scale armour, all the time;

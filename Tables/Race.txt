@@ -1,0 +1,11 @@
+2;Dragonkin;
+3;Half-ork;
+4;Dwarf;
+5;Elf;
+6;Halfling;
+7;Human;
+8;Half-elf;
+9;Satyr;
+10;Skin-changer;
+11;Goblin;
+12;Troll;

@@ -1,0 +1,11 @@
+2;Mystics' Lodge;Magical beings, religous;
+3;Gambling Den;Theives and thugs;
+4;Syndicate Hideout;Brigands, crime lords, mercinaries;
+5;Postal Stop;Couriers and explorers;
+6;Intellectual House;Philosophers, writers, religious, Keepers;
+7;Plain Old Pub;Regular townfolks and laborers;
+8;Trading House;Merchants and Traders;
+9;Rumour Mill;Vagrants, performers, townsfolk;
+10;Exclusive Club;Nobles, the rich, politicians;
+11;Almshouse;Donors, volunteers, refugees;
+12;Wretched Hive of Scum & Villainy;Bounty hunters, low lifes, estranged farmhands;

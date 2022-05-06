@@ -1,0 +1,11 @@
+2;Cinnamon liqueur with clam juice;
+3;The finest porter brewed with tree bark;
+4;Mulled fig wine;
+5;Tea fermented with stone fruit and bird beaks;
+6;Rasberry spiced ice wine;
+7;Citrus dill amber ale;
+8;Wild honey mead steeped with overripe cherries;
+9;Chai bock beer;
+10;Frostroot Coffee with allspice;
+11;Hotpepper Lager aged in a seadragon cask;
+12;Rye wine with hops;

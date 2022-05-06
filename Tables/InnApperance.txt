@@ -1,0 +1,11 @@
+2;Natural apperance, a bar made of vines, toadstool chairs, and so forth;
+3;Magical bookcases everywhere, quiet reading nooks, magical moving book trollies;
+4;A dark oak saloon, complete with second level balcony;
+5;Teak wood furniture with stained glass window;
+6;Black Steel fixtures with mallorn furniture;
+7;Iron accents with standard oak tables and chair;
+8;Brownstone mead hall with large central fireplace;
+9;Olive-stained birch panels, cushioned furniture, paintings;
+10;Sculpted from a single piece of stone;
+11;Black and white, ivory tables and chairs with an onyx bar;
+12;Dragonskin furniture with fire pits everywhere;
